@@ -1,1 +1,0 @@
-The server is a ciphertext relay. Install dependencies from the repository root, then run `npm run dev`. Tests are run from the root with `npm test`. The cryptography tests use libsodium and do not depend on server process state.
